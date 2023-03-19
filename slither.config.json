@@ -1,0 +1,11 @@
+{
+  "compile_force_framework": "hardhat",
+  "filter_paths": "(mocks/|test/|openzeppelin/|contracts-exposed)",
+  "sarif": "./slither-report.sarif",
+  "exclude_informational": false,
+  "exclude_low": false,
+  "exclude_medium": false,
+  "exclude_high": false,
+  "disable_color": false,
+  "legacy_ast": false
+}
